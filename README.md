@@ -6,6 +6,10 @@ A simple third person character controller in Unity
 
 https://github.com/user-attachments/assets/91485280-b86b-4c82-ac11-2a5107730e94
 
+## Final Demo
+This is a demonstration video of the final version: https://youtu.be/GiMoRIjMrDk
+
+
 ## Cloning & Setting Up the Project
 
 1. Ensure you have
